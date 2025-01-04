@@ -1,4 +1,4 @@
-# **Análise Comportamental com Bertimbau**  
+# **Análise Comportamental com Bertimbau** 
 Uma aplicação em Python que utiliza o modelo Bertimbau para realizar análises de texto e sentimentos, fornecendo insights comportamentais valiosos.
 
 ---
