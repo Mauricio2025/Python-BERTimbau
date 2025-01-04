@@ -1,0 +1,37 @@
+[
+    {
+        "file": "input_teste.json",
+        "index": 0,
+        "text": "Estou muito feliz com o suporte recebido, vocês foram incríveis!",
+        "sentiment": "5 stars",
+        "confidence": 0.7620980143547058
+    },
+    {
+        "file": "input_teste.json",
+        "index": 1,
+        "text": "Achei o atendimento lento e pouco eficiente.",
+        "sentiment": "2 stars",
+        "confidence": 0.5698627233505249
+    },
+    {
+        "file": "input_teste.json",
+        "index": 2,
+        "text": "O produto chegou bem embalado e antes do prazo. Excelente experiência!",
+        "sentiment": "5 stars",
+        "confidence": 0.7732698917388916
+    },
+    {
+        "file": "input_teste.json",
+        "index": 3,
+        "text": "Não gostei da experiência, tive problemas com a entrega.",
+        "sentiment": "2 stars",
+        "confidence": 0.4718646705150604
+    },
+    {
+        "file": "input_teste.json",
+        "index": 4,
+        "text": "Muito bom! Recomendo a todos.",
+        "sentiment": "5 stars",
+        "confidence": 0.7765741348266602
+    }
+]
